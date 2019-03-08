@@ -1,4 +1,4 @@
-FROM ubuntu-jdk8 
+FROM  servergurus/ubuntu-jdk8
 MAINTAINER raju <raju.devops01@gmail.com>
 
 # setup WildFly 
